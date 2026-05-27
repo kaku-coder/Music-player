@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://music-player-reactt.netlify.app/sitemap.xml
